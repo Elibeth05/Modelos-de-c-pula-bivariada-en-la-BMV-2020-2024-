@@ -1,4 +1,3 @@
 # Pairs-Trading-Copulas-BMV
 
-Artículo elaborado para Seminario de Investigación
-En Actuaría, UNAM FES ACATLAN.
+Artículo desarrollado en el Seminario de Investigación de la Licenciatura en Actuaría, UNAM FES Acatlán.
